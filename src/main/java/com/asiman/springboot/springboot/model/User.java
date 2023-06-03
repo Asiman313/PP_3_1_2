@@ -67,8 +67,4 @@ public class User {
                 ", age=" + age +
                 '}';
     }
-
-    public User() {
-    }
-
 }
